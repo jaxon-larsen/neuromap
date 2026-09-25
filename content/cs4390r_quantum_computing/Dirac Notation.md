@@ -1,0 +1,1 @@
+It uses **kets** $(\vert{}\psi\rangle)$ to represent abstract state vectors (column) and **bras** $(\langle\psi\Vert{})$ for their dual conjugate vectors (row).

@@ -1,0 +1,1 @@
+State or wave function, or a set of states, that is both [[Orthogonal]] and [[Normalized]]

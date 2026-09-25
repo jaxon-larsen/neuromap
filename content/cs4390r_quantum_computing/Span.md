@@ -1,0 +1,1 @@
+To span a space, every possible vector in the space can be written as a [[Linear Combination]] of your [[Basis]] vectors

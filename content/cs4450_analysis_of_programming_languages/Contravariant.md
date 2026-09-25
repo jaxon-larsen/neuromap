@@ -1,0 +1,1 @@
+Infer a relationship that goes opposite ways

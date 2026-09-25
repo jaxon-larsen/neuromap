@@ -1,0 +1,1 @@
+Property of a [[Wave Function]] that describes the position of the wave's crests and troughs in a complex number space

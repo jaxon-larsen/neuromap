@@ -1,0 +1,1 @@
+Linearly independence is applied to vectors in a [[Basis]] when none of them can be built from a combination of the others

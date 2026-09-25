@@ -1,0 +1,1 @@
+Two [[Qubit]]s are independent if their combined state is a [[Product State]]

@@ -1,0 +1,2 @@
+A vector with the length (norm) of one
+The sum of the squares of the absolute values of the vector's amplitudes must equal exactly 1, so, with $\begin{bmatrix} a \\ b \end{bmatrix}$: $|a|^2 + |b|^2 = 1$

@@ -1,0 +1,1 @@
+When measuring the state of a [[Qubit]], your measurement result is a 0 or a 1. The post-measurement state becomes $|0\rangle$ or $|1\rangle$. 

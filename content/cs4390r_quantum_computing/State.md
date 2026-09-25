@@ -1,0 +1,2 @@
+$|0\rangle$ or $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$ represents the qubit pointing towards the "North pole" (on a [[Bloch Sphere]]), or 0 in classical computing.
+$|1\rangle$ or $\begin{bmatrix} 0 \\ 1 \end{bmatrix}$ represents the qubit pointing towards the "South pole" (on a [[Bloch Sphere]]), or 1 in classical computing.

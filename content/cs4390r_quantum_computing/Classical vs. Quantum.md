@@ -1,0 +1,1 @@
+Quantum computers use probability amplitudes (encoded in [[Qubit]]s) instead of discrete bits

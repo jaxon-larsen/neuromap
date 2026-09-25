@@ -1,0 +1,1 @@
+Measuring one [[Qubit]] will instantly and perfectly tell you the [[State]] of the other
